@@ -4,7 +4,7 @@ I created a Google clone using React.
 
 ### Preview:
 
-[comment]: <![Alt Text](https://media.giphy.com/media/lAbtx81jZ1OVdX0JD8/giphy.gif)>
+![Alt Text](https://media.giphy.com/media/6sn6bmRerdujQoVVFD/giphy.gif)
 
 ### Technologies:
 - React
