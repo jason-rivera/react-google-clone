@@ -1,0 +1,23 @@
+.input-group {
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+.form-control {
+    border-radius: 100px;
+    border-left: none;
+    border-right: none;
+}
+
+#search-icon {
+    background-color: white;
+    border-radius: 100px 0px 0px 100px;
+    border-right: none;
+}
+
+#mic-icon {
+    background-color: white;
+    border-radius: 0px 100px 100px 0px;
+    border-left: none;
+}
