@@ -1,0 +1,24 @@
+.nav-item {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 14px;
+    color: black;
+}
+
+.navbar {
+    min-width: 410px;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.image {
+    border-radius: 100%;
+}
+
+.image:hover {
+    background-color: rgb(249, 249, 249);
+    border-radius: 1000%;
+}
