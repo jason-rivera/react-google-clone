@@ -1,6 +1,6 @@
 ### Overview:
 
-A personal project I made for a Google clone using React.
+I created a Google clone using React.
 
 ### Preview:
 
