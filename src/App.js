@@ -16,7 +16,7 @@ const App = () => {
       </div>
       <div>
         Google offered in:{" "}
-        <a id="french-link" href="#">
+        <a id="french-link" href="https://www.google.com/setprefs?sig=0_a0tM0baZXzRcophwGVykK-5jLj4%3D&hl=fr&source=homepage&sa=X&ved=0ahUKEwih5ZjH_6PwAhVcFTQIHfXbD0UQ2ZgBCBA">
           Français
         </a>
       </div>

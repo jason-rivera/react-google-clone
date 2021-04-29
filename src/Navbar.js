@@ -32,14 +32,14 @@ const Navbar = () => {
           >
             Images
           </a>
-          <a className="nav-item image" href="#">
+          <a className="nav-item image" href="https://www.google.ca/imghp?hl=en&authuser=0&ogbl">
             <img
               className="image"
               src="https://i.imgur.com/CXxxZ4a.jpg"
               alt=""
             />
           </a>
-          <a className="nav-item image" href="#">
+          <a className="nav-item image" href="https://www.gmail.com">
             <img
               className="image"
               src="https://i.imgur.com/H2WTqPA.jpg"
