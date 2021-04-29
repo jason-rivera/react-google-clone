@@ -3,14 +3,14 @@
 }
 
 .button-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 #french-link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 #french-link:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
